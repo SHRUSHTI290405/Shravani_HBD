@@ -16,7 +16,7 @@ const SHRAVANI_HERO_PHOTO = "/public/hero.jpeg";
 // Interactive Memories used in the Game and Stack stages
 const MEMORIES = [
   {
-    url: "/M1.jpeg",
+    url: "/m1.jpeg",
     caption: "The beginning of a beautiful chapter."
   },
   {
