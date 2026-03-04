@@ -20,29 +20,29 @@ const MEMORIES = [
     caption: "The beginning of a beautiful chapter."
   },
   {
-    url: "/public/M4.jpeg",
+    url: "/m4.jpeg",
     caption: "Shravani, your energy is infectious!"
   },
   {
-    url: "/public/M3.jpeg",
+    url: "/m3.jpeg",
     caption: "Radiating joy on your special day."
   },
   {
-    url: "/public/M2.jpeg",
+    url: "/m2.jpeg",
     caption: "To the endless adventures ahead!"
   }
 ];
 
 // Dedicated Collection Photos for the final page
 const COLLECTION_PHOTOS = [
-  { url: "/public/C1.jpeg", title: "Celebration 1" },
-  { url: "/public/C2.jpeg", title: "Vibe 2" },
-  { url: "/public/C3.jpeg", title: "Magic 3" },
-  { url: "/public/C4.jpeg", title: "Party 4" },
-  { url: "/public/C5.jpeg", title: "Happy 5" },
+  { url: "/public/c1.jpeg", title: "Celebration 1" },
+  { url: "/public/c2.jpeg", title: "Vibe 2" },
+  { url: "/public/c3.jpeg", title: "Magic 3" },
+  { url: "/public/c4.jpeg", title: "Party 4" },
+  { url: "/public/c5.jpeg", title: "Happy 5" },
   { url: "/public/C6.jpeg", title: "Squad 6" },
-  { url: "/public/M4.jpeg", title: "Night 7" },
-  { url: "/public/M2.jpeg", title: "Dream 8" }
+  { url: "/public/m4.jpeg", title: "Night 7" },
+  { url: "/public/m2.jpeg", title: "Dream 8" }
 ];
 
 const ROASTS = [
