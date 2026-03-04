@@ -633,7 +633,7 @@ const SuspenseScreen = ({ onNext }) => {
         <motion.div animate={{ scale: [1, 1.2, 1] }} transition={{ repeat: Infinity }} className="mb-10 mx-auto">
           <Heart size={80} className="text-pink-500 fill-pink-500" />
         </motion.div>
-        <h2 className="text-pink-500 font-black tracking-[0.2em] mb-8 uppercase text-[10px]">Processing 24 Years...</h2>
+        <h2 className="text-pink-500 font-black tracking-[0.2em] mb-8 uppercase text-[10px]">Processing 21 Years...</h2>
         <div className="w-full h-2 bg-zinc-800 rounded-full overflow-hidden mb-4"><motion.div className="h-full bg-pink-600" style={{ width: `${progress}%` }} /></div>
         <div className="font-mono text-3xl font-black text-pink-400">{progress}%</div>
       </div>
