@@ -11,7 +11,7 @@ import {
 const HER_NAME = "Shravani"; 
 
 // Update this URL with Shravani's best photo for the final reveal!
-const SHRAVANI_HERO_PHOTO = "/hero.jpeg";
+const SHRAVANI_HERO_PHOTO = "/public/hero.jpeg";
 
 // Interactive Memories used in the Game and Stack stages
 const MEMORIES = [
@@ -20,29 +20,29 @@ const MEMORIES = [
     caption: "The beginning of a beautiful chapter."
   },
   {
-    url: "/m4.jpeg",
+    url: "/public/M4.jpeg",
     caption: "Shravani, your energy is infectious!"
   },
   {
-    url: "/m3.jpeg",
+    url: "/public/M3.jpeg",
     caption: "Radiating joy on your special day."
   },
   {
-    url: "/m2.jpeg",
+    url: "/public/M2.jpeg",
     caption: "To the endless adventures ahead!"
   }
 ];
 
 // Dedicated Collection Photos for the final page
 const COLLECTION_PHOTOS = [
-  { url: "/c1.jpeg", title: "Celebration 1" },
-  { url: "/c2.jpeg", title: "Vibe 2" },
-  { url: "/c3.jpeg", title: "Magic 3" },
-  { url: "/c4.jpeg", title: "Party 4" },
-  { url: "/c5.jpeg", title: "Happy 5" },
-  { url: "/c6.jpeg", title: "Squad 6" },
-  { url: "/m4.jpeg", title: "Night 7" },
-  { url: "/m2.jpeg", title: "Dream 8" }
+  { url: "/public/C1.jpeg", title: "Celebration 1" },
+  { url: "/public/C2.jpeg", title: "Vibe 2" },
+  { url: "/public/C3.jpeg", title: "Magic 3" },
+  { url: "/public/C4.jpeg", title: "Party 4" },
+  { url: "/public/C5.jpeg", title: "Happy 5" },
+  { url: "/public/C6.jpeg", title: "Squad 6" },
+  { url: "/public/M4.jpeg", title: "Night 7" },
+  { url: "/public/M2.jpeg", title: "Dream 8" }
 ];
 
 const ROASTS = [
@@ -53,10 +53,10 @@ const ROASTS = [
 ];
 
 const REFLECTION_THEMES = [
-  { title: "Travel", icon: <Plane size={24} />, color: "bg-blue-100", text: "To all the places we've yet to see!", img: "/nautanki.jpeg" },
-  { title: "Food", icon: <Utensils size={24} />, color: "bg-orange-100", text: "May your year be full of treats!", img: "/foodie.jpeg" },
-  { title: "Laughs", icon: <Ghost size={24} />, color: "bg-yellow-100", text: "To the jokes only we understand!", img: "/laughs.jpeg" },
-  { title: "Vibe", icon: <Music size={24} />, color: "bg-purple-100", text: "Always keeping it 100% Shravani.", img: "/vibe.jpeg" }
+  { title: "Travel", icon: <Plane size={24} />, color: "bg-blue-100", text: "To all the places we've yet to see!", img: "/public/nautanki.jpeg" },
+  { title: "Food", icon: <Utensils size={24} />, color: "bg-orange-100", text: "May your year be full of treats!", img: "/public/foodie.jpeg" },
+  { title: "Laughs", icon: <Ghost size={24} />, color: "bg-yellow-100", text: "To the jokes only we understand!", img: "/public/laughs.jpeg" },
+  { title: "Vibe", icon: <Music size={24} />, color: "bg-purple-100", text: "Always keeping it 100% Shravani.", img: "/public/vibe.jpeg" }
 ];
 
 const TRIVIA_QUESTIONS = [
