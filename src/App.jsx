@@ -11,12 +11,12 @@ import {
 const HER_NAME = "Shravani"; 
 
 // Update this URL with Shravani's best photo for the final reveal!
-const SHRAVANI_HERO_PHOTO = "/public/hero.jpeg";
+const SHRAVANI_HERO_PHOTO = "hero.jpeg";
 
 // Interactive Memories used in the Game and Stack stages
 const MEMORIES = [
   {
-    url: "/public/m1.jpeg",
+    url: "m1.jpeg",
     caption: "The beginning of a beautiful chapter."
   },
   {
